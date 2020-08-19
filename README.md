@@ -3,7 +3,7 @@
 <!--
 **ayushman999/ayushman999** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.-->
 
-Here are some ideas to get you started:
+Here are few things about myself:
 
 - 🔭 I’m currently working on Project Habita.
 - 🌱 I’m currently learning Android Development.
