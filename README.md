@@ -1,7 +1,7 @@
 ### Hi there,I'm Ayushman Sharma and I'm a budding android developer... 👋
 
 <!--
-**ayushman999/ayushman999** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**ayushman999/ayushman999** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.-->
 
 Here are some ideas to get you started:
 
@@ -12,4 +12,4 @@ Here are some ideas to get you started:
 - 💬 Ask me about programming languages, android development, fitness, and music...
 - 📫 How to reach me: You can find me active on instagram(username: ayushman999)
 - ⚡ Fun fact: I love to interact with new people with same vibe about life.
--->
+
