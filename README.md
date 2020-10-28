@@ -5,7 +5,7 @@
 
 Here are few things about myself:
 
-- 🔭 I’m currently working on Project Habita.
+- 🔭 I’m currently working on Project Habita,Tourist Helper App, MediPoint and FireLearn.
 - 🌱 I’m currently learning Android Development.
 - 👯 I’m looking to collaborate on any project that provides a good community and knowledge.
 - 🤔 I’m looking for help with api and server related stuff.
