@@ -5,7 +5,7 @@
 
 Here are few things about myself:
 
-- 🔭 I’m currently working on Project Habita,Tourist Helper App, Messsy, MediPoint and QuikAttend.
+- 🔭 I’m currently working on Tourist Helper App and Messsy .
 - 🌱 I’m currently learning Android Development.
 - 👯 I’m looking to collaborate on any project that provides a good community and knowledge.
 - 🤔 I’m looking for help with api and server related stuff.
